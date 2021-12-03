@@ -94,7 +94,7 @@
           <dmn:text>"speed"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_8CEBE4D5-DBEF-46EF-BD95-7B96148B6D8A">
-          <dmn:text>&gt;= 10</dmn:text>
+          <dmn:text>&gt;= 30</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_5FCC56B7-6BAA-4B09-AC61-7EB9D4CD58C3">
           <dmn:text>1000</dmn:text>
@@ -180,7 +180,7 @@
             <kie:width>254</kie:width>
             <kie:width>329</kie:width>
             <kie:width>119</kie:width>
-            <kie:width>100</kie:width>
+            <kie:width>182</kie:width>
             <kie:width>186</kie:width>
           </kie:ComponentWidths>
           <kie:ComponentWidths dmnElementRef="_F39732F1-0AA7-468F-86C4-DCC07E6F81CF">
@@ -229,7 +229,7 @@
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="534" y="83" width="133" height="63"/>
+        <dc:Bounds x="535" y="84" width="133" height="63"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNEdge id="dmnedge-drg-_800A3BBB-90A3-4D9D-BA5E-A311DED0134F" dmnElementRef="_800A3BBB-90A3-4D9D-BA5E-A311DED0134F">
@@ -238,11 +238,11 @@
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_982211B1-5246-49CD-BE85-3211F71253CF" dmnElementRef="_982211B1-5246-49CD-BE85-3211F71253CF">
         <di:waypoint x="419" y="369"/>
-        <di:waypoint x="600.5" y="114.5"/>
+        <di:waypoint x="601.5" y="115.5"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_AEC4AA5F-50C3-4FED-A0C2-261F90290731" dmnElementRef="_AEC4AA5F-50C3-4FED-A0C2-261F90290731">
         <di:waypoint x="759" y="235"/>
-        <di:waypoint x="600.5" y="114.5"/>
+        <di:waypoint x="601.5" y="115.5"/>
       </dmndi:DMNEdge>
     </dmndi:DMNDiagram>
   </dmndi:DMNDI>
